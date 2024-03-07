@@ -1,0 +1,4 @@
+.center-badge {
+    margin: auto; /* Permet de centrer horizontalement */
+    text-align: center; /* Permet de centrer le texte à l'intérieur du badge */
+}

@@ -1,0 +1,10 @@
+dmc.Card(
+    children=[
+                dmc.Text("texte", weight=500),
+                dmc.Badge("VALUE", color="blue", variant="light"),
+    ],
+    withBorder=True,
+    shadow="sm",
+    radius="md",
+    style={"width": 350},
+)
